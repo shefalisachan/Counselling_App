@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android" 
+  android:orientation="vertical" 
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+  
+  
+
+  <ScrollView android:id="@+id/ScrollView01"
+android:layout_width="fill_parent" android:layout_height="fill_parent">
+	
+	
+	<LinearLayout android:orientation="vertical"
+   android:layout_width="fill_parent"
+		android:layout_height="fill_parent">	
+	
+  
+  
+  <LinearLayout android:orientation="horizontal" android:background="#8A9DB7"
+		android:layout_width="fill_parent" android:layout_height="50dip">
+
+
+		
+		
+		<TextView android:id="@+id/invitation" android:text="Applicant" android:textColor="#ffffff"
+			android:textSize="22dp" android:textStyle="bold" android:layout_marginTop="8dip"
+			android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_marginLeft="25dip"/>
+
+		
+			
+</LinearLayout>
+  
+				<TextView android:text="To :"
+				  android:textSize="18dip"
+    android:id="@+id/TextView01"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" android:layout_marginLeft="10dip" android:layout_marginTop="15dip"/>
+<EditText android:text=""
+    android:id="@+id/editTxtTo"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" android:layout_marginLeft="10dip" android:layout_marginRight="10dip"/>
+<TextView android:text="Subject :"
+    android:id="@+id/TextView02"
+      android:textSize="18dip"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" android:layout_marginLeft="10dip" android:layout_marginTop="10dip"/>
+	
+<EditText
+    android:id="@+id/editTxtSubject"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+   android:layout_marginLeft="10dip" android:layout_marginRight="10dip" android:layout_marginBottom="15dip"/>
+   
+   <EditText android:layout_width="fill_parent"
+    android:layout_height="275dip"
+    android:id="@+id/editTxtBody"
+	android:lines="25"
+    android:layout_marginLeft="5dip" 
+    android:layout_marginRight="5dip" 
+    android:textColor="#03163D" 
+    android:textSize="18dip"
+     android:gravity="top"
+	android:imeOptions="actionDone"
+	android:inputType="textMultiLine|textCapSentences"/>
+
+
+<Button 
+android:layout_height="42dip" 
+android:textSize="16dip" 
+android:textColor="#304d87" 
+android:layout_width="90dip" 
+	android:layout_gravity="center" 
+	android:layout_marginTop="10dip"
+	android:textStyle="bold" 
+	android:id="@+id/btnEmailSend" 
+	android:text="Send">
+</Button>	
+	
+	
+  </LinearLayout>
+</ScrollView>
+</LinearLayout>

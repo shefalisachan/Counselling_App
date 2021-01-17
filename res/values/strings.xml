@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Student Counseling </string>
+    <string name="hello">Hello World, f1!</string>
+    <string name="d1"> Mental Health is more than just being free from issues such as anxiety and depression. It\’s about being happy, self-confident, self-aware, and resilient. Looking after your mental health is just as important as caring for your physical health. People who are mentally healthy are in control of their emotions and behavior. They\'re able to handle life\'s inevitable challenges, build strong relationships, and lead productive,\ fulfilling lives. They bounce back when bad things happen and can manage stress without falling apart. But, building mental health requires effort, just like physical health. None the less, improving your mental health can be a rewarding experience, benefiting all aspects of your life, including boosting your mood, building resilience, and adding to your overall enjoyment of life. 
+<string name="send_binarysms">Send binary sms (to port 8091)</string>
+</string>
+<string name="d2">The dynamics of relationships amidst which one lives are complex in nature. We aim to help students understand and unwind the complications of these through this session</string>
+<string name="d3">Students are focused on improving their study techniques in order to optimize their skill set to the maximum. The session on study techniques is aimed at acquainting students on various studying approaches which can be helpful for them in regularizing their studies and performing better in their examinations.</string>
+<string name="d4">One of the most pressing issues in the campus for Undergraduate and Postgraduate students is how to spend time on the right things and in the right places. We try to help students in reaching out to their priorities, obligations and schedule so that they benefit in all areas of life through this session.</string>
+<string name="d5">Aimed at helping the students understand the various forms of addiction and sensitize them on ways to overcome them.</string>
+
+
+<string name="a1">Students often, either because of personal reasons or involvement in extra curricular activities or lack of motiviation, do not want to gear up too early, but let us tell you that leaving preparation for too late is an excellent recipe for stress. Regularly attending the classes and being in touch with the course material is a good idea. It not only helps you prepare better for the exams but also keeps you interested in the course.</string>
+<string name="a2">Different students have different ways of studying. Some are able to perform and understand better by covering current subjects in small amounts on a regular basis in accordance with class, while some others find it convenient to study in bulk say at the end of the week or so. You should try figure out which way suits you better.
+In case you can not come to a conclusion, we suggest you to follow the first approach of studying in small amounts on a regular basis.
+Identify Best Time for Studying: Everyone has high and low periods of attention and concentration. Figure out are you a morning person or a night person. Use your power times to study and the down times for routines.
+Write down what you have to do, when and then prioritize. Maintaining a schedule can make you feel more in control.
+Identify the place of study that suites you most, avoiding distractions, be it the library or the comfort of your room.
+You should constantly motivate yourself
+Reward yourself when you have achieved some goal.
+Try not to overburden yourself by unnecessarily comparing yourself with others.</string>
+<string name="a3">Take regular, short breaks when you are working - for example, some students find it better to study for an hour or so and then relax for 10 mins. This helps to concentrate for longer. Rather than studying throughout the night in library without enough concentration, it\’s better to focus your attention and study effectively for a shorter period of time.If you are finding it very difficult to concentrate, start off by setting yourself a small, manageable goal. When you have achieved this, give yourself some reward. Keep repeating this process. As you achieve your goals, gradually increase what you set out to do. In this way you can train yourself to concentrate more effectively.</string>
+<string name="a4">Improving the study habits also help in concentrating better. Here are a few tips:
+
+Make notes as you read. And list the important points that can be reviewed later.
+Speak out loud.
+Mix topics frequently. Mix easy and difficult topics, and interesting and dull topics.
+Seek help from the seniors who had already done that course, you can learn from their experience and their mistakes.
+Discuss your doubts with your friends, this will help you in better understanding the topic.
+If you still have doubts feel free to approach your instructor/tutor. Just mail them and ask for some suitable time to meet them.</string>
+<string name="a5">Everyone in this class is smarter and faster than I am.
+I always mess up on quizzes.
+If I don\'t do well on this exam, then I\'ll get an F in the course.
+This is the worst course.
+
+Become aware of what you say to yourself. Try writing your negative thoughts and then disputing each one with a positive statement like Even if I am afraid, I will do everything I can to overcome any obstacle in order to achieve my goals Encourage yourself, as you would have done to a friend. Repeating your positive statements to yourself will help reprogram your mind for success instead of for failure. In case you still find it difficult to get rid of these thoughts or feelings please feel free to contact our counsellors who might be able to help you better.</string>
+
+
+ <string name="m1">"Tough times will come in everyone\'s life. It is important to realize that something good is meant out of them. The bright side of things- people help you know all this...But only if you reach out!"</string>
+  <string name="m2">On the face of it people might think one is happy and good and all is going well, but he/she might be facing a tsunami of emotions in his/her personal life which remains hidden, which makes things and situations suffocating and very difficult to cope with.
+
+It\’s important for people living with mental health conditions to know that they are not alone.
+
+If you or someone you know is going through a tough time, talking to someone might sound like a simplistic solution but it really is one of the best possible things you/they can do.
+
+\‘Share your story, it opens people to share theirs\’.
+#MentalHealthAwarenessWeek</string>
+
+</resources>

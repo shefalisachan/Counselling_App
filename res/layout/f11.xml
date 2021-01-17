@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:orientation="vertical">
+    <ImageButton android:layout_height="150dp"
+     android:id="@+id/imageButton1"
+      android:layout_width="200dp"
+      android:layout_marginTop="10dp"
+      android:layout_marginLeft="50dp"
+       android:src="@drawable/mail"></ImageButton>
+    <ImageButton android:layout_height="150dp"
+     android:id="@+id/imageButton2"
+      android:layout_width="200dp" 
+      android:layout_marginTop="50dp"
+      android:layout_marginLeft="50dp"
+      android:src="@drawable/message"></ImageButton>
+</LinearLayout>

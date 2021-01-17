@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#000000">
+    
+    <TextView 
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/txtwel"
+        android:textColor="#FFFFFF"
+        />
+        
+        <TextView 
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+       android:text="You Are Successfully Registered"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="5dp"/>
+    
+    <Button 
+        android:layout_width="90dip" 
+		android:layout_height="44dip" 
+		android:textSize="16dip" 
+		android:textColor="#304d87"
+		android:textStyle="bold" 
+		 android:id="@+id/btsign"
+        android:text="Home"
+        android:layout_gravity="right"/>
+    
+       <TextView 
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/txtdet1"
+        android:textColor="#FFFFFF"
+        android:layout_gravity="center"/>
+    
+
+</LinearLayout>
